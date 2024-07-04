@@ -1,5 +1,6 @@
 name: Playwright Booking
 on:
+  workflow_dispatch
   schedule:
     - cron: "6,36 * * * *"
 jobs:
