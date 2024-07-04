@@ -4,27 +4,27 @@
     "time": "19:00",
     "location": "Boulogne Carnot",
     "classtype": "Intensif",
-    "account": ["nschoonb@mathworks.com", "nadaboulos82@hotmail.com"]
+    "account": ["nicolas", "nada"]
   },
   {
     "day": "Mercredi",
     "time": "19:30",
     "location": "Paris 9 Bergère",
     "classtype": "Cardio HIIT",
-    "account": ["nschoonb@mathworks.com", "nadaboulos82@hotmail.com"]
+    "account": ["nicolas", "nada"]
   },
   {
     "day": "Samedi",
     "time": "12:00",
     "location": "Paris 9 Bergère",
     "classtype": "Cardio HIIT",
-    "account": ["nschoonb@mathworks.com", "nadaboulos82@hotmail.com"]
+    "account": ["nicolas", "nada"]
   },
   {
     "day": "Dimanche",
     "time": "11:30",
     "location": "Boulogne Carnot",
     "classtype": "Intensif",
-    "account": ["nschoonb@mathworks.com", "nadaboulos82@hotmail.com"]
+    "account": ["nicolas", "nada"]
   }
 ]
