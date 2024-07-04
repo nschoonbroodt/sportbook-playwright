@@ -10,6 +10,7 @@ type Class = {
 };
 
 type Account = {
+  name: string;
   login: string;
   password: string;
 };
@@ -94,7 +95,7 @@ test("test", async ({ page }) => {
 
     for (const account of c.account) {
       // do we have credential?
-      const secrets = accounts.find((e) => (e.login = account));
+      const secrets = accounts.find((e) => (e.name = account));
       expect(secrets, "Did not find account " + account).toBeDefined();
 
       // login
