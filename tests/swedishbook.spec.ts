@@ -14,8 +14,6 @@ type Account = {
   password: string;
 };
 
-const accounts = require("../config/accounts.json");
-
 function dayStringToNumber(day: string) {
   switch (day) {
     case "Dimanche":
